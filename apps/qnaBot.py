@@ -4,6 +4,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+#Using groq
+
+
 llm = ChatGroq(model="openai/gpt-oss-120b")
 # ques = "who is pm of india"
 # ans = llm.invoke(ques)
