@@ -6,3 +6,5 @@ langchain-anthropic
 langchain-huggingface
 dotenv
 streamlit
+langchain-tavily
+langgraph
