@@ -1,3 +1,4 @@
 .env
 env
 proofs
+apps/tasks.db
