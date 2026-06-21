@@ -8,3 +8,6 @@ dotenv
 streamlit
 langchain-tavily
 langgraph
+pypdf
+beautifulsoup4
+wikipedia
